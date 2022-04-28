@@ -4,7 +4,7 @@ module.exports = {
 	options: {
 		frequency: 60 * 23, // 24 hours
 		freshChrome: "run",
-    chromeFlags: ['--headless', '--disable-dev-shm-usage'],
+    runs: 1,
 	},
 	urls: [
     "https://internet2000.net",
