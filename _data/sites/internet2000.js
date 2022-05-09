@@ -6,13 +6,14 @@ module.exports = {
     runs: 2,
 	},
 	urls: [
-    "https://internet2000.net",
-    "https://cmettavant.fr",
-    "https://lescousettesdezoe.fr",
-    "https://silex.me",
-    "https://blog.refty.co",
-    "https://belighted.com",
-    "https://tournova.fr",
-    "https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
+		"https://internet2000.net",
+		"https://cmettavant.fr",
+		"https://lescousettesdezoe.fr",
+		"https://silex.me",
+		"https://blog.refty.co",
+		"https://belighted.com",
+		"https://tournova.fr",
+		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
+		"https://www.hakilidesign.com/",
 	]
 };
