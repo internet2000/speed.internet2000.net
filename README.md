@@ -1,3 +1,14 @@
+# About this site
+
+Deployment
+
+* with netlify on push
+* with netlify on webhook call
+* make.com job to call the webhook every day
+
+URL: https://speed.internet2000.net/
+
+
 # speedlify
 
 After you make a fast web site, keep it fast by measuring it over time. Read [Use Speedlify to Continuously Measure Site Performance](https://www.zachleat.com/web/speedlify/). Created by [@zachleat](https://www.zachleat.com/).
