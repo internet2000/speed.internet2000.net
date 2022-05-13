@@ -14,6 +14,6 @@ module.exports = {
 		"https://belighted.com",
 		"https://tournova.fr",
 		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
-		"https://www.hakilidesign.com/",
+		"https://hakilidesign.com/",
 	]
 };
