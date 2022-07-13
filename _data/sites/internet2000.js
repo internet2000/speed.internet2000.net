@@ -9,12 +9,12 @@ module.exports = {
 		"https://internet2000.net",
 		"https://cmettavant.fr",
 		"https://lescousettesdezoe.fr",
-		"https://silex.me",
-		"https://blog.refty.co",
-		"https://belighted.com",
+		"https://www.silex.me",
 		"https://tournova.fr",
 		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
 		"https://hakilidesign.com/",
 		"https://eqwalgroup.com/",
+		"https://www.softcorner.eu/",
+		"https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi"
 	]
 };
