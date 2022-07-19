@@ -15,6 +15,7 @@ module.exports = {
 		"https://hakilidesign.com/",
 		"https://eqwalgroup.com/",
 		"https://www.softcorner.eu/",
-		"https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi"
+		"https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi",
+		"https://www.expensya.com/fr/"
 	]
 };
