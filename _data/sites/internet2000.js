@@ -14,10 +14,8 @@ module.exports = {
 		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
 		"https://hakilidesign.com/",
 		"https://eqwalgroup.com/",
-		"https://www.softcorner.eu/",
 		"https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi",
 		"https://scoreddb.fr/",
-                "https://www.kalikado.fr/",
-                "https://www.surfrider.org/"
+                "https://kalikadoproduits.fr/"
 	]
 };
