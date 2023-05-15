@@ -11,10 +11,10 @@ module.exports = {
 		"https://lescousettesdezoe.fr",
 		"https://www.silex.me",
 		"https://tournova.fr",
-		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
+		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/", "https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi",
 		"https://hakilidesign.com/",
 		"https://eqwalgroup.com/",
-		"https://info.openclassrooms.com/fr-fr/fr/lp/formations-financees-demandeurs-demploi",
+		"https://softcorner.internet2000.net/", "https://www.softcorner.eu/",
 		"https://scoreddb.fr/",
                 "https://kalikadoproduits.fr/"
 	]
