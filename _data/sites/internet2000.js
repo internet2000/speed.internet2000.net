@@ -6,6 +6,7 @@ module.exports = {
     runs: 3,
 	},
 	urls: [
+		"https://belighted.com",
 		"https://internet2000.net",
 		"https://cmettavant.fr",
 		"https://lescousettesdezoe.fr",
