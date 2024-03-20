@@ -8,10 +8,9 @@ module.exports = {
 	urls: [
 		"https://internet2000.net",
 		"https://cmettavant.fr",
-		"https://lescousettesdezoe.fr",
 		"https://www.silex.me",
 		"https://tournova.fr",
-		"moly.internet2000.net",
+		"https://moly.internet2000.net",
 		"https://ocr.internet2000.net/formations-financees-demandeurs-demploi/",
 		"https://hakilidesign.com/",
 		"https://eqwalgroup.com/",
