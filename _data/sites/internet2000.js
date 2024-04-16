@@ -19,6 +19,7 @@ module.exports = {
 		"https://scoreddb.fr/",
 		"https://clay-group.fr/",
 		"https://www.nectar-io.fr/",
-		"https://eco-starter.eco2.i2k.site/"
+		"https://eco-starter.eco2.i2k.site/",
+		"https://www.fiduo.lu/"
 	]
 };
