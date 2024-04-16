@@ -20,6 +20,7 @@ module.exports = {
 		"https://clay-group.fr/",
 		"https://www.nectar-io.fr/",
 		"https://eco-starter.eco2.i2k.site/",
+		"https://www.congres-afef.com/",
 		"https://www.fiduo.lu/"
 	]
 };
