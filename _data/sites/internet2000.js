@@ -21,6 +21,7 @@ module.exports = {
 		"https://www.nectar-io.fr/",
 		"https://eco-starter.eco2.i2k.site/",
 		"https://www.congres-afef.com/",
-		"https://www.fiduo.lu/"
+		"https://www.fiduo.lu/",
+		"https://www.ceisal2025.com/"
 	]
 };
