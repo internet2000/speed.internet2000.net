@@ -25,6 +25,7 @@ module.exports = {
 		"https://www.ceisal2025.com/",
 		"https://gbassi.es/",
 		"https://mytendron.com/",
-
+		"https://www.hy24partners.com/",
+		"https://www.oeth.org/",
 	]
 };
