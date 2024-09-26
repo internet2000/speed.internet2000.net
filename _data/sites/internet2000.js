@@ -28,5 +28,6 @@ module.exports = {
 		"https://www.hy24partners.com/",
 		"https://www.oeth.org/",
 		"https://www.jiap-sfp.org/",
+		"https://www.phosphore-sante.com/",
 	]
 };
