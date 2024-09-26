@@ -27,5 +27,6 @@ module.exports = {
 		"https://mytendron.com/",
 		"https://www.hy24partners.com/",
 		"https://www.oeth.org/",
+		"https://www.jiap-sfp.org/",
 	]
 };
