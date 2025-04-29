@@ -21,5 +21,8 @@ module.exports = {
 		"https://www.oeth.org/",
 		"https://www.jiap-sfp.org/",
 		"https://www.phosphore-sante.com/",
+		"https://fresquedelarestauration.fr/",
+		"https://hazelle-conseil.fr/",
+		"https://simplon.foundation/",
 	]
 };
