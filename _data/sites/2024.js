@@ -21,5 +21,6 @@ module.exports = {
 		"https://www.oeth.org/",
 		"https://www.jiap-sfp.org/",
 		"https://www.phosphore-sante.com/",
+		"https://hazelle-conseil.fr/",
 	]
 };
